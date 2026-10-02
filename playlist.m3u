@@ -42,6 +42,4 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://televisao.tv/images/record-news.webp" group-title="Noticias", RECORD NEWS
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://televisao.tv/images/rede-brasil.webp" group-title="Abertos", REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="REDE TV-CC" tvg-name="REDE TV-CC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gc
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://televisao.tv/images
