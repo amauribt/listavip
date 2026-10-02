@@ -6,21 +6,26 @@
   <style>
     body { font-family: Arial, sans-serif; text-align: center; background-color: #f5f5f5; margin-top: 40px; }
     h1 { color: #333; }
-    .btn { display: inline-block; margin: 10px; padding: 15px 25px; font-size: 18px; color: #fff; background-color: #ff6600; border-radius: 8px; text-decoration: none; }
+    .btn { display: inline-block; margin: 10px; padding: 15px 25px; font-size: 18px; color: #fff; background-color: #ff6600; border-radius: 8px; text-decoration: none; cursor: pointer; }
     .btn:hover { background-color: #e65c00; }
+    .btn-copy { background-color: #0073e6; }
+    .btn-copy:hover { background-color: #005bb5; }
     .instructions { text-align: left; display: inline-block; margin-top: 20px; }
   </style>
 </head>
 <body>
   <h1>🎵 Minha Playlist VIP 🎵</h1>
   <a href="playlist.m3u" class="btn">⬇️ Baixar Playlist</a>
+  <button class="btn btn-copy" onclick="copyLink()">📋 Copiar Link</button>
+  
+  <p id="msg" style="color:green; font-weight:bold;"></p>
   
   <div class="instructions">
     <h2>💻 No computador (VLC):</h2>
     <ol>
       <li>Abra o VLC.</li>
       <li>Clique em <em>Mídia → Abrir fluxo de rede</em>.</li>
-      <li>Cole este link: <br><code>https://amauribt.github.io/listavip/playlist.m3u</code></li>
+      <li>Cole o link copiado.</li>
       <li>Clique em <em>Reproduzir</em>.</li>
     </ol>
 
@@ -28,9 +33,18 @@
     <ol>
       <li>Abra o app VLC.</li>
       <li>Vá em <em>Fluxo de rede</em>.</li>
-      <li>Cole o link acima.</li>
+      <li>Cole o link copiado.</li>
       <li>Toque em <em>Play</em>.</li>
     </ol>
   </div>
+
+  <script>
+    function copyLink() {
+      const link = "https://amauribt.github.io/listavip/playlist.m3u";
+      navigator.clipboard.writeText(link).then(() => {
+        document.getElementById("msg").innerText = "✅ Link copiado para a área de transferência!";
+      });
+    }
+  </script>
 </body>
 </html>
