@@ -1,6 +1,6 @@
 #EXTM3U
-# Gera��o: 2026-10-01 06:11
-# Total de canais: 46
+# Geração: 2026-10-01 06:11
+# Total de canais: 43
 
 #EXTINF:-1 tvg-id="CATOLICA TV" tvg-name="CATOLICA TV" tvg-logo="https://televisao.tv/images/catolica-tv.webp" group-title="Entretenimento", CATOLICA TV
 https://stmv2.painelvideocast.com.br/caloticatv/caloticatv/chunklist_w1798941840.m3u8
@@ -30,8 +30,6 @@ https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=106bo8ep
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1801212382.m3u8
 #EXTINF:-1 tvg-id="CINDIE TV" tvg-name="CINDIE TV" tvg-logo="https://televisao.tv/images/cindie-tv.webp" group-title="Entretenimento", CINDIE TV
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099960.m3u8
-#EXTINF:-1 tvg-id="FILMES ON LINE-TTV" tvg-name="FILMES ON LINE-TTV" tvg-logo="https://televisao.tv/images/filmes-online.webp" group-title="Entretenimento", FILMES ON LINE-TTV
-https://stream.ads.ottera.tv/cl/261001dautcks8pp9c73dffes0/1920x1080_6046040_3_f.m3u8?i=728_6178
 #EXTINF:-1 tvg-id="GOSPEL MOVIE TV" tvg-name="GOSPEL MOVIE TV" tvg-logo="https://televisao.tv/images/gospel-movie-tv.webp" group-title="Entretenimento", GOSPEL MOVIE TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="GRJNGO TV" tvg-name="GRJNGO TV" tvg-logo="https://televisao.tv/images/grjngo.webp" group-title="Entretenimento", GRJNGO TV
@@ -42,55 +40,8 @@ https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8?hls_ctx=72189n12
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-id="NATURE TIME BRASIL" tvg-name="NATURE TIME BRASIL" tvg-logo="https://televisao.tv/images/nature-time-brasil.webp" group-title="Documentarios", NATURE TIME BRASIL
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
-#EXTINF:-1 tvg-id="RBS TV POA-G" tvg-name="RBS TV POA-G" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2013/03/rbs-tv.jpg" group-title="Abertos", RBS TV POA-G
-https://giganet.tv.br/media/n/BZfJAde/a/BZfJAde/720p/chunks.m3u8?ch=BZfJAde&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4NDM4MTAsImlhdCI6MTc5MDgyNTgxMCwic3ViIjoibWFpbi5vcmcjMTcyMDcyNzAzOCIsInByZW1pdW0iOmZhbHNlfQ.YjneHPtWPasp1nH1-Ydk-tccyeTLOHrE15wK3RzM1ok
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://televisao.tv/images/record-news.webp" group-title="Noticias", RECORD NEWS
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-#EXTINF:-1 tvg-id="RECORD RS-G" tvg-name="RECORD RS-G" tvg-logo="https://giganet.tv.br/logo/1720477936.044679.png" group-title="Geral", RECORD RS-G
-https://giganet.tv.br/media/n/BZqWmZC4y2GYmJm0mdmY/a/BZqWmZC4y2GYmJm0mdmY/720p/chunks.m3u8?ch=BZqWmZC4y2GYmJm0mdmY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4NDM4MTAsImlhdCI6MTc5MDgyNTgxMCwic3ViIjoibWFpbi5vcmcjMTcyMDcyNzAzOCIsInByZW1pdW0iOmZhbHNlfQ.YjneHPtWPasp1nH1-Ydk-tccyeTLOHrE15wK3RzM1ok
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="https://televisao.tv/images/rede-brasil.webp" group-title="Abertos", REDE BRASIL
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="REDE TV-CC" tvg-name="REDE TV-CC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShp1kCE03wSS9BFQSmAH1XmVoKGSFPhcPjEJ2oCUg0gA&s=10" group-title="Abertos", REDE TV-CC
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w446047599.m3u8
-#EXTINF:-1 tvg-id="RT  ACAO" tvg-name="RT  ACAO" tvg-logo="" group-title="Entretenimento", RT  ACAO
-https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-#EXTINF:-1 tvg-id="RT CINEMA" tvg-name="RT CINEMA" tvg-logo="" group-title="Entretenimento", RT CINEMA
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
-#EXTINF:-1 tvg-id="RT COMEDIA" tvg-name="RT COMEDIA" tvg-logo="" group-title="Entretenimento", RT COMEDIA
-https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
-#EXTINF:-1 tvg-id="RT CRIME" tvg-name="RT CRIME" tvg-logo="" group-title="Entretenimento", RT CRIME
-https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
-#EXTINF:-1 tvg-id="RT FAMILIA" tvg-name="RT FAMILIA" tvg-logo="" group-title="Entretenimento", RT FAMILIA
-https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
-#EXTINF:-1 tvg-id="RT ROMANCE" tvg-name="RT ROMANCE" tvg-logo="" group-title="Entretenimento", RT ROMANCE
-https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
-#EXTINF:-1 tvg-id="SBC" tvg-name="SBC" tvg-logo="https://televisao.tv/images/sbc.webp" group-title="Entretenimento", SBC
-https://video01.brascast.com/rede1250/rede1250/playlist.m3u8?hls_ctx=d4656336
-#EXTINF:-1 tvg-id="SBC  STUDIOS" tvg-name="SBC  STUDIOS" tvg-logo="https://televisao.tv/images/sbc-studios.webp" group-title="Entretenimento", SBC  STUDIOS
-https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=88s20r05
-#EXTINF:-1 tvg-id="SBC KIDS" tvg-name="SBC KIDS" tvg-logo="https://televisao.tv/images/sbc-kids.webp" group-title="Entretenimento", SBC KIDS
-https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=166q3l37
-#EXTINF:-1 tvg-id="SBC PIPOCA" tvg-name="SBC PIPOCA" tvg-logo="https://televisao.tv/images/sbc-pipoca.webp" group-title="Entretenimento", SBC PIPOCA
-https://video01.brascast.com/d8e52626/d8e52626/playlist.m3u8?hls_ctx=qyx08092
-#EXTINF:-1 tvg-id="SBT NEWS" tvg-name="SBT NEWS" tvg-logo="https://televisao.tv/images/sbt-news.webp" group-title="Noticias", SBT NEWS
-https://sbtnews.maissbt.com/3.m3u8
-#EXTINF:-1 tvg-id="SESSAO TRASCH" tvg-name="SESSAO TRASCH" tvg-logo="https://televisao.tv/images/sessao-trash.webp" group-title="Entretenimento", SESSAO TRASCH
-https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="SONY ONE CINEMA" tvg-name="SONY ONE CINEMA" tvg-logo="https://televisao.tv/images/sony-one-cinema.webp" group-title="Entretenimento", SONY ONE CINEMA
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg-id="SONY ONE EMOCOES" tvg-name="SONY ONE EMOCOES" tvg-logo="https://televisao.tv/images/sony-one-emocoes.webp" group-title="Entretenimento", SONY ONE EMOCOES
-https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="TOP TV" tvg-name="TOP TV" tvg-logo="https://televisao.tv/images/top-tv.webp" group-title="Musica", TOP TV
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV CLASSICOS DO CINEMA" tvg-name="TV CLASSICOS DO CINEMA" tvg-logo="https://televisao.tv/images/tv-classicos-do-cinema.webp" group-title="Entretenimento", TV CLASSICOS DO CINEMA
-https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA" tvg-logo="https://cultura.uol.com.br/upload/tvcultura/noticias/20221209161932_turtunota.png" group-title="Abertos", TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 tvg-id="TV MZ" tvg-name="TV MZ" tvg-logo="https://televisao.tv/images/tv-mz.webp" group-title="Entretenimento", TV MZ
-https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=863or6o4
-#EXTINF:-1 tvg-id="TV NA FILMES" tvg-name="TV NA FILMES" tvg-logo="https://televisao.tv/images/tvna-filmes.webp" group-title="Entretenimento", TV NA FILMES
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=3126iu5j
-#EXTINF:-1 tvg-id="TV PAMPA" tvg-name="TV PAMPA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnlMHRGyeR9mDM2tKEfw73lrIza7qH5xPSwB1u-rvFaQ&s" group-title="Abertos", TV PAMPA
-https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w882685926.m3u8
-#EXTINF:-1 tvg-id="TVE RS" tvg-name="TVE RS" tvg-logo="https://televisao.tv/images/tve-rs.webp" group-title="Geral", TVE RS
-https://canalgov-stream.ebc.com.br/GOV-mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="REDE TV-CC" tvg-name="REDE TV-CC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gc
