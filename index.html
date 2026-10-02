@@ -2,14 +2,44 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Lista VIP</title>
+  <title>🎵 Minha Playlist VIP 🎵</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      margin-top: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    .btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 25px;
+      font-size: 18px;
+      color: #fff;
+      background-color: #ff6600;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background-color: #e65c00;
+    }
+    .btn-secondary {
+      background-color: #0073e6;
+    }
+    .btn-secondary:hover {
+      background-color: #005bb5;
+    }
+  </style>
 </head>
-<body style="text-align:center; font-family:Arial; background:#f0f0f0; padding-top:100px;">
-  <h1>🎶 Minha Playlist VIP 🎶</h1>
-  <a href="playlist.m3u" download 
-     style="display:inline-block; padding:15px 30px; background:#ff6600; color:#fff; 
-            text-decoration:none; border-radius:8px; font-size:1.2em;">
-     ⬇️ Baixar Playlist
-  </a>
+<body>
+  <h1>🎵 Minha Playlist VIP 🎵</h1>
+  <a href="playlist.m3u" class="btn">⬇️ Baixar Playlist</a>
+  <a href="playlist.m3u" class="btn btn-secondary">▶️ Abrir no Player</a>
+  <p>Copie este link e cole no seu app IPTV para assistir.</p>
 </body>
 </html>
